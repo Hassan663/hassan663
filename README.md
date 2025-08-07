@@ -17,7 +17,7 @@
 </div>
 
 ```javascript
-const moeezSuleman = {
+const hassanNawaz = {
   identity: "🎯 Elite Full-Stack Developer & Tech Visionary",
   location: "🌍 Pakistan → Global Impact",
   mission: "Revolutionizing digital experiences through cutting-edge technology",
@@ -103,7 +103,7 @@ const moeezSuleman = {
 
 ```mermaid
 mindmap
-  root((MOEEZ SULEMAN))
+  root((Hassan Nawaz))
     FRONTEND
       React/Vue Ecosystem
       Mobile Development
@@ -206,7 +206,7 @@ mindmap
 ## <div align="center">🎭 **CONNECT WITH THE VISIONARY** 🎭</div>
 
 <div align="center">
-  <a href="mailto:moeez.suleman460@gmail.com">
+  <a href="mailto:hn893385@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/moeez-suleman" target="_blank">
@@ -238,5 +238,5 @@ mindmap
 </div>
 
 <div align="center">
-  <sub>✨ Crafted with passion and precision by <strong>Moeez Suleman</strong> ✨</sub>
+  <sub>✨ Crafted with passion and precision by <strong>Hassan Nawaz</strong> ✨</sub>
 </div>
